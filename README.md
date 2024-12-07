@@ -1,3 +1,3 @@
 # Assignment
 
-// This website is created fot the completion of the UCB-SOCIO 102-70666 website making assignment
+// This website is created for the completion of UCB-SOCIO 102-70666 website making assignment
